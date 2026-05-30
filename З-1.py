@@ -1,6 +1,6 @@
-student_name = 'Лукин Артем Алексеевич'
+student_name = 'Дезигурьян Эмилий Романович'
 group_number = '3150801/10101'
-project_name = 'ТРК Титан Арена'
+project_name = 'Моремолл'
 floors = 5
 height = 15.5
 is_residential = False
